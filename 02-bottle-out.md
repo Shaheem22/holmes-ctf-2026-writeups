@@ -3,11 +3,11 @@
 # Bottle Out
 2<sup>nd</sup> October 2026
 
-Prepared by: Muhammad Shaheem (HTB: feanor)
+Prepared by: Muhammad Shaheem
 
 Machine Author(s): Not specified by the event
 
-Difficulty: Not confirmed
+Difficulty: Easy
 
 > **Flag values are withheld pending confirmation that this Sherlock has been retired.** This writeup covers the reasoning and tools used, not the literal strings submitted. Five of ten questions were not resolved — noted honestly below rather than omitted.
 

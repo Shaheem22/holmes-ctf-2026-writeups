@@ -7,7 +7,7 @@ Prepared by: Abdullah Mahsud (solved independently; writeup drafted by Muhammad 
 
 Machine Author(s): Not specified by the event
 
-Difficulty: Not confirmed
+Difficulty: Easy
 
 > **Flag values are withheld pending confirmation that this Sherlock has been retired** — though for this scenario the point is largely moot: none of the actual answers were recorded in the working session this writeup is drawn from in the first place.
 

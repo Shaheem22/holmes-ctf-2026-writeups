@@ -3,11 +3,11 @@
 # Mission Vault (scoreboard name: Iron Feather)
 2<sup>nd</sup> October 2026
 
-Prepared by: Muhammad Shaheem (HTB: feanor)
+Prepared by: Muhammad Shaheem
 
 Machine Author(s): Not specified by the event
 
-Difficulty: <font color="red">Hard</font>
+Difficulty: Hard
 
 > **Flag values are withheld pending confirmation that this Sherlock has been retired.** This writeup covers the reasoning and tools used to reach each answer, not the literal strings submitted. This was the cleanest run of the event — every question resolved in order.
 

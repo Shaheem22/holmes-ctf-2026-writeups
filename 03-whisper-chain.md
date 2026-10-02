@@ -3,11 +3,11 @@
 # Whisper Chain
 2<sup>nd</sup> October 2026
 
-Prepared by: Muhammad Shaheem (HTB: feanor)
+Prepared by: Muhammad Shaheem
 
 Machine Author(s): Not specified by the event
 
-Difficulty: Not confirmed
+Difficulty: Medium
 
 > **Flag values are withheld pending confirmation that this Sherlock has been retired.** This writeup covers the reasoning and tools used. Four of eight questions were not resolved — noted honestly below.
 
