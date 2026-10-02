@@ -14,8 +14,8 @@ These writeups follow the official HTB Sherlock writeup template, with every lit
 | 2 | [Bottle Out](02-bottle-out.md) | Partial |
 | 3 | [Whisper Chain](03-whisper-chain.md) | Partial |
 | 4 | [Paper Ghost](04-paper-ghost.md) | Solved by teammate (undocumented — see file) |
-| 7 | [Mission Vault (aka Iron Feather)](07-mission-vault.md) | Solved |
-| 8 | [DIOGENES](08-diogenes.md) | Partial |
+| 7 | [Iron Feather](07-iron_feather.md) | Solved |
+| 8 | [Borrowed Name](08-borrowed_name.md) | Partial |
 
 Scenarios 5, 6, and 9 weren't attempted — no writeup for those.
 
