@@ -1,13 +1,13 @@
 <img src="./assets/banner.png" style="max-width: 100%;" align=left />
 
-# DIOGENES
+# BORROWED NAME
 2<sup>nd</sup> October 2026
 
-Prepared by: Muhammad Shaheem (HTB: feanor), with one answer supplied by Abdullah Mahsud
+Prepared by: Muhammad Shaheem, with one answer supplied by Abdullah Mahsud
 
 Machine Author(s): Not specified by the event
 
-Difficulty: Not confirmed
+Difficulty: Insane
 
 > **Flag values are withheld pending confirmation that this Sherlock has been retired.** This writeup covers the reasoning and tools used. Eleven of twelve questions were not resolved — noted honestly below rather than omitted.
 
