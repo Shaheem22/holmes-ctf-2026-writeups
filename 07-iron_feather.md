@@ -1,6 +1,6 @@
 <img src="./assets/banner.png" style="max-width: 100%;" align=left />
 
-# Mission Vault (scoreboard name: Iron Feather)
+# Iron Feather
 2<sup>nd</sup> October 2026
 
 Prepared by: Muhammad Shaheem

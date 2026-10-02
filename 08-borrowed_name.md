@@ -1,6 +1,6 @@
 <img src="./assets/banner.png" style="max-width: 100%;" align=left />
 
-# BORROWED NAME
+# Borrowed Name
 2<sup>nd</sup> October 2026
 
 Prepared by: Muhammad Shaheem, with one answer supplied by Abdullah Mahsud
